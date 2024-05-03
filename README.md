@@ -1,5 +1,6 @@
 # DirSeeker
 
+
 ## Descrição
 DirSeeker é uma ferramenta desenvolvida em Bash para buscar diretórios em servidores web de forma automatizada. Ele é projetado para ajudar na identificação de diretórios potencialmente sensíveis ou vulneráveis em um site.
 
