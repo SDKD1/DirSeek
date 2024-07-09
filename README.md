@@ -6,7 +6,7 @@ DirSeeker é uma ferramenta desenvolvida em Bash para buscar diretórios em serv
 
 ## Funcionalidades Principais
 - Brute force de diretórios comuns em servidores web.
-- Utiliza conexões TCP via `/dev/tcp` do Bash.
+- Utiliza conexões TCP via `/dev/tcp` do Linux.
 - Envia solicitações HTTP GET para cada diretório na lista.
 - Analisa a resposta do servidor em busca do código de status "HTTP/1.1 200 OK".
 - Fornece feedback visual claro ao usuário.
